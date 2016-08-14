@@ -26,7 +26,7 @@ div.main {
 }
 
 div.aboutme {
- border: 5px solid darkblue;
+ border: 2px solid red;
  width: 600px;
  height: 900px;
  margin-left:500px;
@@ -35,7 +35,7 @@ div.aboutme {
 }
 h1.c{
  text-align:center;
- background-color:mediumblue;
+ background-color:steelblue;
  color:white;
 }
 ul {
@@ -83,4 +83,9 @@ div.mid {
  height: 400px;
 }
 
+p.m{
+ margin-left:20px;
+ color:black;
+ font-size:20px;
 }
+
